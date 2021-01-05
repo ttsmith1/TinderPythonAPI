@@ -1,5 +1,6 @@
 # Tinder Python API
 
+THE ENDPOINTS HAVE CHANGED. THIS REPO IS OUT OF DATE. UPDATE TO COME.
 This project contains python bindings for the unoffical tinder api. The tinder api is constantly changing and current libraries are not always up to date. This project is a mix of Pynder's style and Fbessez's endpoints/auth. Current a work in progress but is suitable for non-production projects.
 
 ## AUTHENTICATION
